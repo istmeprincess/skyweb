@@ -307,8 +307,11 @@ img{
   width: 1%;
 }
 .skills__img{
-  height: 30px;
-  width: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60px;
+  width: 50%;
   border-radius: .5rem;
 }
 

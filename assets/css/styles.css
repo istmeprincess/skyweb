@@ -288,6 +288,9 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
+.skills__donate{
+  width: 1%;
+}
 .skills__progress{
   width: 3%;
 }

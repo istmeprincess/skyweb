@@ -307,6 +307,8 @@ img{
   width: 1%;
 }
 .skills__img{
+  height: 30px;
+  width: 30px;
   border-radius: .5rem;
 }
 
